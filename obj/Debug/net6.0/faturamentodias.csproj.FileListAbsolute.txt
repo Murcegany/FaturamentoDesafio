@@ -1,0 +1,14 @@
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\bin\Debug\net6.0\faturamentodias.exe
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\bin\Debug\net6.0\faturamentodias.deps.json
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\bin\Debug\net6.0\faturamentodias.runtimeconfig.json
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\bin\Debug\net6.0\faturamentodias.dll
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\bin\Debug\net6.0\faturamentodias.pdb
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.AssemblyInfoInputs.cache
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.AssemblyInfo.cs
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.csproj.CoreCompileInputs.cache
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.dll
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\refint\faturamentodias.dll
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.pdb
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\faturamentodias.genruntimeconfig.cache
+C:\Users\luizp\OneDrive\Documentos\Repositório\FaturamentoDias\obj\Debug\net6.0\ref\faturamentodias.dll
